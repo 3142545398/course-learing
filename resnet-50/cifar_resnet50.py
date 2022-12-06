@@ -1,7 +1,3 @@
-# ============================================================================
-"""cifar_resnet50
-This sample code is applicable to Ascend.
-"""
 import os
 import random
 import argparse
